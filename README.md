@@ -66,7 +66,7 @@ Given the information like mortgage details, borrowers related details and payme
 2. Converting date features to categorical features.
 3. Using OHE instead of mean/target encoding.
 4. Keeping and creating categorical features.
-5. Smote with the ratio of 0.059. Applying smote with default parameters did not work. Used this parameters instead:
+5. Smote with the ratio of 0.059. Applying smote with default parameters did not work. Used these parameters instead:
 ratio = 0.059, k_neighbors=10, random_state=10
 6. Algorithms such as GBM, XGBoost, AdaBoost and LGBM worked much better than the others.
 7. Kept the max_depth as 2 for all the models which imporved the F1 score greatly.
