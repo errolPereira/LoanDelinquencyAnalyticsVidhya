@@ -34,7 +34,7 @@ Given the information like mortgage details, borrowers related details and payme
 9. Catboost
 
 ## Features Created
-1. EMI - with the formula   (P * R * (1 + R)^N) / (((1 + R)^N) + 1)
+1. EMI - with the formula   (P * R * (1 + R)^N) / (((1 + R)^N) - 1)
 2. Total payabale amount : EMI * loan_term
 3. monthly salary : EMI / debt_to_income * 100
 4. downpayment>20 : if insurance taken then 0 else 1
