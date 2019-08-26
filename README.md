@@ -1,4 +1,4 @@
-### Because of Gods grace and help I was able to score a Rank of  in the Public Leaderboard. All thanks to the God Almighty and Jesus Christ for the help and knowledge he provided me.
+### Because of Gods grace and help I was able to score a Rank of 101 in the Public Leaderboard. All thanks to the God Almighty and Jesus Christ for the help and knowledge he provided me.
 
 # LoanDelinquencyAnalyticsVidhya
 India ML Hiring Hackathon 2019
